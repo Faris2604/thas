@@ -46,3 +46,5 @@ A fun, interactive React application designed to prank your special someone on V
 - **Images**: You can swap the favicon in `public/heart.svg`.
 
 Enjoy pranking! 💖😂
+
+Demo: https://my-valentine-day-gift.netlify.app/
